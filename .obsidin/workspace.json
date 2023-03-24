@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c6765b18af2e4f1",
+        "id": "96014bc213743975",
         "type": "tabs",
         "children": [
           {
-            "id": "5989b5dd9f6dcc0d",
+            "id": "ba2ed21ad497a249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "随想/张.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "随想/张.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "随想/张.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "随想/张.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5989b5dd9f6dcc0d",
+  "active": "ba2ed21ad497a249",
   "lastOpenFiles": [
+    "随想/张.md",
     "2023-03-24.md",
     "未命名.md",
     "brainNote",
