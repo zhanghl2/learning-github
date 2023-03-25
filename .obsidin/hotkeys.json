@@ -7,14 +7,13 @@
       "key": "S"
     }
   ],
+  "graph:open": [],
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "S"
     }
-  ],
-  "graph:open": []
+  ]
 }
