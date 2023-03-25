@@ -1,5 +1,12 @@
 {
   "strictLineBreaks": true,
   "readableLineLength": false,
-  "attachmentFolderPath": "Excalidraw/Scripts"
+  "attachmentFolderPath": "Excalidraw/Scripts",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

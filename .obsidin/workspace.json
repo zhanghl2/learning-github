@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54cefa9ba11892eb",
+        "id": "621f3b35114b36d3",
         "type": "tabs",
         "children": [
           {
-            "id": "84ff8fce690831b2",
+            "id": "fd9bad598b64b908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随想/张.md",
+                "file": "计4张辉亮精读笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随想/张.md",
+                "file": "计4张辉亮精读笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随想/张.md",
+                "file": "计4张辉亮精读笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随想/张.md"
+                "file": "计4张辉亮精读笔记.md"
               }
             }
+          },
+          {
+            "id": "088bd4a544dfb1b0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,27 +147,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "84ff8fce690831b2",
+  "active": "fd9bad598b64b908",
   "lastOpenFiles": [
-    "2023-03-25.md",
-    "随想/张.md",
-    "未命名.canvas",
-    "未命名.md",
+    "Git-github/git教程.md",
+    "计4张辉亮精读笔记.md",
+    "Excalidraw/Drawing 2023-03-25 12.01.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 12.01.15.excalidraw 1.md",
+    "Excalidraw/Drawing 2023-03-25 16.07.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 14.54.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 14.55.35.excalidraw.md",
+    "image/4abf1d4611d2d376e01b0f371156d12.jpg",
+    "未命名",
+    "Excalidraw/Scripts/Pasted image 20230325144443.png",
+    "Excalidraw/Scripts/Pasted image 20230325144435.png",
+    "Excalidraw/Scripts/Pasted image 20230325144257.png",
+    "Excalidraw/Drawing 2023-03-25 08.43.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 09.22.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 10.38.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-25 12.01.15.excalidraw.png",
+    "Excalidraw/Scripts/91ca9cec880511ebb6edd017c2d2eca2 1.png",
+    "Excalidraw/Scripts/91ca9cec880511ebb6edd017c2d2eca2.png",
     "未命名 1.canvas",
+    "未命名.canvas",
+    "Git-github/Drawing 2023-03-25 10.26.13.excalidraw.md",
+    "随想/张.md",
+    "2023-03-25.md",
     "未命名 2.canvas",
     "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Drawing 2023-03-25 09.22.25.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
     "Excalidraw/fonts/SmileySans-Oblique.ttf",
@@ -166,34 +193,20 @@
     "SmileySans-Oblique.ttf",
     "Excalidraw/fonts",
     "Excalidraw/新建文件夹",
-    "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2023-03-25 08.43.19.excalidraw.md",
     "Excalidraw",
-    "Git-github",
-    "想法/zj1.md",
-    "2",
-    "2023-03-24.md"
+    "Git-github"
   ]
 }
