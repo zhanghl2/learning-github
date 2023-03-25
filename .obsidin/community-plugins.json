@@ -3,9 +3,9 @@
   "table-editor-obsidian",
   "code-block-copy",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "obsidian-outliner",
   "url-into-selection",
   "obsidian-enhancing-export",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-git"
 ]
