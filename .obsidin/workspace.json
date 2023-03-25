@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随想/张.md",
+                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随想/张.md",
+                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随想/张.md"
+                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md"
               }
             }
           }
@@ -158,10 +159,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ba2ed21ad497a249",
+  "active": "beac088406a0c312",
   "lastOpenFiles": [
-    "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
     "随想/张.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-03-25 08.43.19.excalidraw.md",
+    "Excalidraw",
+    "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
     "未命名.md",
     "Git-github",
     "想法/zj1.md",
