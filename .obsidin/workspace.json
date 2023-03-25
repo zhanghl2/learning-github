@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +190,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e43f335f89679c5a",
+  "active": "7f0636f25271698e",
   "lastOpenFiles": [
+    "Excalidraw/fonts/SmileySans-Oblique.ttf",
+    "Excalidraw/SmileySans-Oblique.ttf",
+    "SmileySans-Oblique.ttf",
+    "Excalidraw/fonts",
+    "Excalidraw/新建文件夹",
     "未命名 2.canvas",
     "Excalidraw/Drawing 2023-03-25 09.22.25.excalidraw.md",
     "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
@@ -230,8 +236,6 @@
     "想法/zj1.md",
     "2",
     "2023-03-24.md",
-    "brainNote",
-    "想法",
-    "随想"
+    "brainNote"
   ]
 }
