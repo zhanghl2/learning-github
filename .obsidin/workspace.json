@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计4张辉亮精读笔记.md",
+                "file": "Git-github/git教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计4张辉亮精读笔记.md",
+                "file": "Git-github/git教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计4张辉亮精读笔记.md",
+                "file": "Git-github/git教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计4张辉亮精读笔记.md"
+                "file": "Git-github/git教程.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "fd9bad598b64b908",
   "lastOpenFiles": [
-    "Git-github/git教程.md",
     "计4张辉亮精读笔记.md",
+    "Git-github/git教程.md",
     "Excalidraw/Drawing 2023-03-25 12.01.15.excalidraw.md",
     "Excalidraw/Drawing 2023-03-25 12.01.15.excalidraw 1.md",
     "Excalidraw/Drawing 2023-03-25 16.07.28.excalidraw.md",
