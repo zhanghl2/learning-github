@@ -3,5 +3,7 @@
   "theme": "moonstone",
   "cssTheme": "Obsidian Nord",
   "baseFontSize": 21,
-  "textFontFamily": "得意黑"
+  "textFontFamily": "得意黑",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "得意黑"
 }
