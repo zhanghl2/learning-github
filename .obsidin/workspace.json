@@ -23,14 +23,29 @@
             "id": "beac088406a0c312",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "f73b992527646b56",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md"
               }
             }
           }
@@ -159,8 +174,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "beac088406a0c312",
+  "active": "f73b992527646b56",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "Excalidraw/Drawing 2023-03-25 08.54.02.excalidraw.md",
+    "2023-03-25.md",
+    "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
@@ -181,13 +200,11 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "随想/张.md",
-    "Git-github/Drawing 2023-03-25 08.41.22.excalidraw.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2023-03-25 08.43.19.excalidraw.md",
     "Excalidraw",
