@@ -1,5 +1,4 @@
 [
-  "obsidian-pangu",
   "table-editor-obsidian",
   "code-block-copy",
   "obsidian-excalidraw-plugin",
@@ -9,6 +8,8 @@
   "obsidian-charts",
   "obsidian-image-toolkit",
   "obsidian-git",
-  "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-mind-map",
+  "cmdr",
+  "easy-typing-obsidian"
 ]
